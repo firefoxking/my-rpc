@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="test-client" />
         <module name="rpc-common" />
+        <module name="netty-practice" />
         <module name="rpc-api" />
         <module name="test-server" />
         <module name="rpc-core" />

@@ -14,6 +14,7 @@
         <module>test-server</module>
         <module>test-client</module>
         <module>rpc-common</module>
+        <module>netty-practice</module>
     </modules>
 
     <properties>
